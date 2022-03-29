@@ -1,0 +1,5 @@
+{
+  "require": {
+    "cryptoapis/sdk": "^1.3.3"
+  }
+}
